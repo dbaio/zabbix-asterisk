@@ -5,7 +5,7 @@ Monitoramento de filas do Asterisk com Zabbix
 
 Baixe o repositório e copie os arquivos `queue_status_zab.php` e `queue_zab.sh` para dentro de `/usr/local/bin`
 
-Após de permis
+Após de permissão para execução do `.sh`
 
 
 Em seguida verifique se a opção Include dentro do `zabbix_agentd.conf` está configurada
